@@ -1,3 +1,2 @@
-<img width="200" height="200" alt="MineCopierLogo" src="https://github.com/user-attachments/assets/441a35f1-f059-46e5-aab4-a17814e6c50e" />
-# MineCopier
+<img width="2048" height="295" alt="NEWMineCopier" src="https://github.com/user-attachments/assets/850ed083-5c3b-4491-8d62-2dd5db324565" />
 Fast command copier for Minecraft map makers. Tabs, groups, instant overlay search, import/export. Organize hundreds of command block commands. Copy with one click
